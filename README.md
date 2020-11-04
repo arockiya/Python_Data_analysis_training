@@ -2,10 +2,13 @@
 
 Help Tutorial: https://www.youtube.com/watch?v=r-uOLxNrNk8
 
-Help Tutorial 2: https://www.youtube.com/watch?v=vmEHCJofslg (Currently following)
+Help Tutorial 2: https://www.youtube.com/watch?v=vmEHCJofslg 
+
+Help Tutorial 3: https://www.youtube.com/watch?v=PfVxFV1ZPnk (Currently following)
 
 Parts:
-1. Getting the data
-2. Reading the data from CSV file
-3. Reading the data from Excel file
-4. Reading the data from Text file
+1. Pandas Series
+2. Basic operations on Series
+3. Data Frame
+4. Basic operations on DataFrames
+
